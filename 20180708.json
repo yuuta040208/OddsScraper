@@ -1,0 +1,2547 @@
+[
+    {
+        "race_id": "201803020401",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "シゲルキラキラ",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "アンビル",
+                "score": 0
+            },
+            {
+                "number": 3,
+                "name": "エリーバラード",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "マグマミキサー",
+                "score": 0
+            },
+            {
+                "number": 5,
+                "name": "シゲルキャッツアイ",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "シゲルアマゾナイト",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "グレートデー",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "ウィローグラウス",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "インターロード",
+                "score": 0
+            },
+            {
+                "number": 10,
+                "name": "ゲンパチファインド",
+                "score": 0
+            },
+            {
+                "number": 11,
+                "name": "トーセンゴーランド",
+                "score": 0
+            },
+            {
+                "number": 12,
+                "name": "ヴァトナヨークトル",
+                "score": 0
+            },
+            {
+                "number": 13,
+                "name": "ノーブルペガサス",
+                "score": 0
+            },
+            {
+                "number": 14,
+                "name": "ウインプレイヤー",
+                "score": 0
+            },
+            {
+                "number": 15,
+                "name": "ニシノコトダマ",
+                "score": 0
+            },
+            {
+                "number": 16,
+                "name": "ニシノサトル",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201803020402",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "クロムウェル",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "トーアマーブル",
+                "score": 0
+            },
+            {
+                "number": 3,
+                "name": "スカイイーグル",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "ウインレフィナード",
+                "score": 0
+            },
+            {
+                "number": 5,
+                "name": "トーセンリスト",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "ヴォイスオブジョイ",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "ナーゲルリング",
+                "score": 1
+            },
+            {
+                "number": 8,
+                "name": "テンモントム",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "エンパイアシュアー",
+                "score": 0
+            },
+            {
+                "number": 10,
+                "name": "マーマレードガール",
+                "score": 0
+            },
+            {
+                "number": 11,
+                "name": "シゲルアゲット",
+                "score": 0
+            },
+            {
+                "number": 12,
+                "name": "ロシアンブルー",
+                "score": 0
+            },
+            {
+                "number": 13,
+                "name": "ネローネ",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201803020403",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "エルコンフェアリー",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "ラッシュウィン",
+                "score": 1
+            },
+            {
+                "number": 3,
+                "name": "ベイスン",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "ドナプリモ",
+                "score": 0
+            },
+            {
+                "number": 5,
+                "name": "サクライザベル",
+                "score": 1
+            },
+            {
+                "number": 6,
+                "name": "プリンセスティナ",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "グラスレガシー",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "ファシナンテ",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "トモジャスティス",
+                "score": 0
+            },
+            {
+                "number": 10,
+                "name": "ミヤビフィオーラ",
+                "score": 0
+            },
+            {
+                "number": 11,
+                "name": "エラスタル",
+                "score": 0
+            },
+            {
+                "number": 12,
+                "name": "ブルベアダイズ",
+                "score": 0
+            },
+            {
+                "number": 13,
+                "name": "シェーナ",
+                "score": 0
+            },
+            {
+                "number": 14,
+                "name": "ガブリエル",
+                "score": 0
+            },
+            {
+                "number": 15,
+                "name": "アキヒメ",
+                "score": 0
+            },
+            {
+                "number": 16,
+                "name": "ブラックマティーニ",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201803020405",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "シンリン",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "シゲルクロシンジュ",
+                "score": 0
+            },
+            {
+                "number": 3,
+                "name": "ワイルドオーキッド",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "グロリアーナ",
+                "score": 0
+            },
+            {
+                "number": 5,
+                "name": "ストーミーナイト",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "ダイチヴィーゼ",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "チェサピークベイ",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "クリスタルバローズ",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "モリトイナセ",
+                "score": 0
+            },
+            {
+                "number": 10,
+                "name": "ダズリングビーチ",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201803020404",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "パワフルドンキ",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "ウインスペリウス",
+                "score": 0
+            },
+            {
+                "number": 3,
+                "name": "ペイシェンス",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "ブリリアントリリー",
+                "score": 0
+            },
+            {
+                "number": 5,
+                "name": "マヤノガルネリ",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "ベリータ",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "クリアロマンス",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "クランダル",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "マイネルセッカ",
+                "score": 0
+            },
+            {
+                "number": 10,
+                "name": "グローリーシャイン",
+                "score": 3
+            },
+            {
+                "number": 11,
+                "name": "ショウナンワダツミ",
+                "score": 0
+            },
+            {
+                "number": 12,
+                "name": "バララットゴールド",
+                "score": 0
+            },
+            {
+                "number": 13,
+                "name": "ボアソルチ",
+                "score": 0
+            },
+            {
+                "number": 14,
+                "name": "サツキワルツ",
+                "score": 0
+            },
+            {
+                "number": 15,
+                "name": "マノン",
+                "score": 0
+            },
+            {
+                "number": 16,
+                "name": "コスモダリア",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201803020406",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "ルーナセレナータ",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "カツコノユメ",
+                "score": 0
+            },
+            {
+                "number": 3,
+                "name": "ダンスナンバー",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "グットラン",
+                "score": 0
+            },
+            {
+                "number": 5,
+                "name": "マシンガントーク",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "クラーナハズヌード",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "ナムラオルガ",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "トミケンヴァール",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "マドンナブルー",
+                "score": 0
+            },
+            {
+                "number": 10,
+                "name": "ミルキーブルー",
+                "score": 0
+            },
+            {
+                "number": 11,
+                "name": "スティルネス",
+                "score": 0
+            },
+            {
+                "number": 12,
+                "name": "ミヤコローズ",
+                "score": 0
+            },
+            {
+                "number": 13,
+                "name": "オルオル",
+                "score": 0
+            },
+            {
+                "number": 14,
+                "name": "グレイトレナウン",
+                "score": 0
+            },
+            {
+                "number": 15,
+                "name": "ヒョットシテ",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201803020407",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "コールドターキー",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "ブラックバローズ",
+                "score": 0
+            },
+            {
+                "number": 3,
+                "name": "ヒロノゴールド",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "トップフィリア",
+                "score": 1
+            },
+            {
+                "number": 5,
+                "name": "ブルベアエゴマ",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "ニコラオス",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "ウェディングフォト",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "ネイチャーモルサム",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "レッドチェイサー",
+                "score": 0
+            },
+            {
+                "number": 10,
+                "name": "ベルウッドスワロー",
+                "score": 0
+            },
+            {
+                "number": 11,
+                "name": "マイネルトワイス",
+                "score": 0
+            },
+            {
+                "number": 12,
+                "name": "ホウオウカーニバル",
+                "score": 0
+            },
+            {
+                "number": 13,
+                "name": "モントルイユ",
+                "score": 0
+            },
+            {
+                "number": 14,
+                "name": "グログラン",
+                "score": 0
+            },
+            {
+                "number": 15,
+                "name": "ドミネーター",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201803020408",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "ノーブルバルカン",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "フラワープレミア",
+                "score": 0
+            },
+            {
+                "number": 3,
+                "name": "キューンハイト",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "ラッキーアドバンス",
+                "score": 0
+            },
+            {
+                "number": 5,
+                "name": "トーホウアイレス",
+                "score": 1
+            },
+            {
+                "number": 6,
+                "name": "サクステッド",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "アスコットチャンプ",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "レッドアメリア",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "スイートメモリーズ",
+                "score": 0
+            },
+            {
+                "number": 10,
+                "name": "スズカゼ",
+                "score": 0
+            },
+            {
+                "number": 11,
+                "name": "ファイアプルーフ",
+                "score": 0
+            },
+            {
+                "number": 12,
+                "name": "マルターズゲイル",
+                "score": 0
+            },
+            {
+                "number": 13,
+                "name": "タイセイヴィクター",
+                "score": 0
+            },
+            {
+                "number": 14,
+                "name": "ロフティフレーズ",
+                "score": 0
+            },
+            {
+                "number": 15,
+                "name": "ロードリベラル",
+                "score": 0
+            },
+            {
+                "number": 16,
+                "name": "ミネット",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201803020409",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "ブランメジェール",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "ナリノメジャー",
+                "score": 1
+            },
+            {
+                "number": 3,
+                "name": "ココロストライク",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "セイウンリリシイ",
+                "score": 0
+            },
+            {
+                "number": 5,
+                "name": "ヴェルスパー",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "レトリック",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "ツヅク",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "コンピレーション",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "タケショウベスト",
+                "score": 1
+            },
+            {
+                "number": 10,
+                "name": "タキオンレイ",
+                "score": 0
+            },
+            {
+                "number": 11,
+                "name": "アイムウィッシング",
+                "score": 0
+            },
+            {
+                "number": 12,
+                "name": "カワキタピリカ",
+                "score": 0
+            },
+            {
+                "number": 13,
+                "name": "アイアムヒメ",
+                "score": 0
+            },
+            {
+                "number": 14,
+                "name": "フリームーヴメント",
+                "score": 0
+            },
+            {
+                "number": 15,
+                "name": "アシャカデッシュ",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201803020410",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "ワイルドカード",
+                "score": 1
+            },
+            {
+                "number": 2,
+                "name": "ベバスカーン",
+                "score": 0
+            },
+            {
+                "number": 3,
+                "name": "ゴールドブラッド",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "ボールドアテンプト",
+                "score": 1
+            },
+            {
+                "number": 5,
+                "name": "ベラポーサ",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "ドリームリヴァール",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "コスモバーダン",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "ロスカボス",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "ルーレットクイーン",
+                "score": 0
+            },
+            {
+                "number": 10,
+                "name": "フジゴウカイ",
+                "score": 0
+            },
+            {
+                "number": 11,
+                "name": "カブキモノ",
+                "score": 0
+            },
+            {
+                "number": 12,
+                "name": "テルペリオン",
+                "score": 0
+            },
+            {
+                "number": 13,
+                "name": "ディアドナテロ",
+                "score": 0
+            },
+            {
+                "number": 14,
+                "name": "シベリウス",
+                "score": 0
+            },
+            {
+                "number": 15,
+                "name": "ディグニファイド",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201803020411",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "プラチナムバレット",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "キンショーユキヒメ",
+                "score": 0
+            },
+            {
+                "number": 3,
+                "name": "マイネルフロスト",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "メドウラーク",
+                "score": 0
+            },
+            {
+                "number": 5,
+                "name": "マイネルサージュ",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "サーブルオール",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "ワンブレスアウェイ",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "パワーポケット",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "バーディーイーグル",
+                "score": 0
+            },
+            {
+                "number": 10,
+                "name": "レイホーロマンス",
+                "score": 0
+            },
+            {
+                "number": 11,
+                "name": "マイネルミラノ",
+                "score": 0
+            },
+            {
+                "number": 12,
+                "name": "シルクドリーマー",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201803020412",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "マリームーン",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "ドヒョウギワ",
+                "score": 1
+            },
+            {
+                "number": 3,
+                "name": "フクサンローズ",
+                "score": 2
+            },
+            {
+                "number": 4,
+                "name": "ディアベリンダ",
+                "score": 0
+            },
+            {
+                "number": 5,
+                "name": "ウインメディウム",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "アルセナーレ",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "スズカプリティー",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "リュウシンローズ",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "パイルーチェ",
+                "score": 0
+            },
+            {
+                "number": 10,
+                "name": "クリノヴィクトリア",
+                "score": 0
+            },
+            {
+                "number": 11,
+                "name": "ロマンスマジック",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201807030401",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "ダノンシティ",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "ブールバール",
+                "score": 1
+            },
+            {
+                "number": 3,
+                "name": "ピースプレイヤー",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "マイネルフラップ",
+                "score": 0
+            },
+            {
+                "number": 5,
+                "name": "トーセントルネード",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "ウォーターエデン",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "ダンツジュエル",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201807030402",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "ニシノプログレス",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "ヤマカツクリスエス",
+                "score": 0
+            },
+            {
+                "number": 3,
+                "name": "アプルーヴァル",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "エイシンウェルズ",
+                "score": 1
+            },
+            {
+                "number": 5,
+                "name": "メイショウスイレン",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "パクスディオラム",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "ビーユアヒーロー",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "ラペールノアール",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "ダイメイスズ",
+                "score": 0
+            },
+            {
+                "number": 10,
+                "name": "チャーミングホープ",
+                "score": 0
+            },
+            {
+                "number": 11,
+                "name": "キョウワオルレアン",
+                "score": 0
+            },
+            {
+                "number": 12,
+                "name": "アイファーロマンス",
+                "score": 0
+            },
+            {
+                "number": 13,
+                "name": "リュウノシャツ",
+                "score": 0
+            },
+            {
+                "number": 14,
+                "name": "メラナイト",
+                "score": 0
+            },
+            {
+                "number": 15,
+                "name": "ローザヴァレンティ",
+                "score": 0
+            },
+            {
+                "number": 16,
+                "name": "ディープエクセル",
+                "score": 0
+            },
+            {
+                "number": 17,
+                "name": "リュニヴェール",
+                "score": 0
+            },
+            {
+                "number": 18,
+                "name": "タガノライジン",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201807030403",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "シゲルミズナ",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "サーキュラーリング",
+                "score": 0
+            },
+            {
+                "number": 3,
+                "name": "デイジーメーカー",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "ショーハイウェイ",
+                "score": 0
+            },
+            {
+                "number": 5,
+                "name": "タガノブディーノ",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "ゴールドインレイ",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "ココナッツスルー",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "カラレイア",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "カネトシアイリス",
+                "score": 0
+            },
+            {
+                "number": 10,
+                "name": "シエラミノル",
+                "score": 0
+            },
+            {
+                "number": 11,
+                "name": "バードランド",
+                "score": 0
+            },
+            {
+                "number": 12,
+                "name": "メモリーコバルト",
+                "score": 0
+            },
+            {
+                "number": 13,
+                "name": "レーヌビクトリア",
+                "score": 0
+            },
+            {
+                "number": 14,
+                "name": "ローブレガリア",
+                "score": 0
+            },
+            {
+                "number": 15,
+                "name": "アドマイヤビート",
+                "score": 0
+            },
+            {
+                "number": 16,
+                "name": "マルケッサ",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201807030404",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "マイブルーヘブン",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "メイショウタンヅツ",
+                "score": 0
+            },
+            {
+                "number": 3,
+                "name": "マッシヴランナー",
+                "score": 1
+            },
+            {
+                "number": 4,
+                "name": "シンボリダルク",
+                "score": 0
+            },
+            {
+                "number": 5,
+                "name": "ウインカートゥーン",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "マイネルヴァッサー",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "アイファーマグオー",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "ヤマカツリーダー",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "カレンバッドボーイ",
+                "score": 0
+            },
+            {
+                "number": 10,
+                "name": "イマジンザット",
+                "score": 0
+            },
+            {
+                "number": 11,
+                "name": "テイエムファンドル",
+                "score": 0
+            },
+            {
+                "number": 12,
+                "name": "アルマシャール",
+                "score": 0
+            },
+            {
+                "number": 13,
+                "name": "フレンドリトル",
+                "score": 0
+            },
+            {
+                "number": 14,
+                "name": "アドバンスゴード",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201807030405",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "モングラン",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "カテドラル",
+                "score": 0
+            },
+            {
+                "number": 3,
+                "name": "ダノンチェイサー",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "タガノサルバドル",
+                "score": 0
+            },
+            {
+                "number": 5,
+                "name": "ブルベアベージュ",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "レオビヨンド",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "コパノケネディー",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "オールイズウェル",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "トーセンカンビーナ",
+                "score": 0
+            },
+            {
+                "number": 10,
+                "name": "ブラヴァス",
+                "score": 1
+            }
+        ]
+    },
+    {
+        "race_id": "201807030406",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "インノータイム",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "アンシャンテシチー",
+                "score": 0
+            },
+            {
+                "number": 3,
+                "name": "アフオラカ",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "レイデマー",
+                "score": 0
+            },
+            {
+                "number": 5,
+                "name": "シンゼンアイル",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "アルマーズ",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "キタノナシラ",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "ブルベアサンサイ",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "クリストフォリ",
+                "score": 0
+            },
+            {
+                "number": 10,
+                "name": "メイショウマキシム",
+                "score": 0
+            },
+            {
+                "number": 11,
+                "name": "タマモオテンバ",
+                "score": 0
+            },
+            {
+                "number": 12,
+                "name": "ローズマリア",
+                "score": 0
+            },
+            {
+                "number": 13,
+                "name": "コンコルドコンドル",
+                "score": 0
+            },
+            {
+                "number": 14,
+                "name": "クレアセンシェンス",
+                "score": 0
+            },
+            {
+                "number": 15,
+                "name": "アイアンオオナミ",
+                "score": 0
+            },
+            {
+                "number": 16,
+                "name": "ナンヨーオートヌ",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201807030407",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "ガウラミディ",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "サラマンカ",
+                "score": 0
+            },
+            {
+                "number": 3,
+                "name": "モンテルース",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "トーホウトリニティ",
+                "score": 0
+            },
+            {
+                "number": 5,
+                "name": "スマートアムール",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "グランデミノル",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "リヴァイバル",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "マコトモンジョワ",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "エンドレスコール",
+                "score": 0
+            },
+            {
+                "number": 10,
+                "name": "ブルーミン",
+                "score": 0
+            },
+            {
+                "number": 11,
+                "name": "メイショウワカクサ",
+                "score": 0
+            },
+            {
+                "number": 12,
+                "name": "スズカモナミ",
+                "score": 0
+            },
+            {
+                "number": 13,
+                "name": "エイシンムー",
+                "score": 0
+            },
+            {
+                "number": 14,
+                "name": "タガノアム",
+                "score": 0
+            },
+            {
+                "number": 15,
+                "name": "エイカイマドンナ",
+                "score": 0
+            },
+            {
+                "number": 16,
+                "name": "キスミーワンス",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201807030408",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "トーセンアイトーン",
+                "score": 1
+            },
+            {
+                "number": 2,
+                "name": "ヴァントシルム",
+                "score": 0
+            },
+            {
+                "number": 3,
+                "name": "モンドバーグ",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "スヴァルナ",
+                "score": 0
+            },
+            {
+                "number": 5,
+                "name": "コールストーム",
+                "score": 1
+            },
+            {
+                "number": 6,
+                "name": "ハイドロフォイル",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "カラル",
+                "score": 1
+            },
+            {
+                "number": 8,
+                "name": "フォースフィールド",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "セルヴィエット",
+                "score": 0
+            },
+            {
+                "number": 10,
+                "name": "タガノヤグラ",
+                "score": 0
+            },
+            {
+                "number": 11,
+                "name": "シャイニーピース",
+                "score": 0
+            },
+            {
+                "number": 12,
+                "name": "ディスピュート",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201807030409",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "トウカイオルデン",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "ステイオンザトップ",
+                "score": 0
+            },
+            {
+                "number": 3,
+                "name": "キーフラッシュ",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "デスティニーソング",
+                "score": 1
+            },
+            {
+                "number": 5,
+                "name": "プロディジー",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "ゼーリムニル",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "ウイングタイガー",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "フェアラフィネ",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "キャッチミーアップ",
+                "score": 1
+            },
+            {
+                "number": 10,
+                "name": "クレバーバード",
+                "score": 1
+            },
+            {
+                "number": 11,
+                "name": "ヤマニンペダラーダ",
+                "score": 0
+            },
+            {
+                "number": 12,
+                "name": "プリュス",
+                "score": 0
+            },
+            {
+                "number": 13,
+                "name": "ピュアコンチェルト",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201807030410",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "インディチャンプ",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "レッドアフレイム",
+                "score": 0
+            },
+            {
+                "number": 3,
+                "name": "キラービューティ",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "コスモヨハネ",
+                "score": 0
+            },
+            {
+                "number": 5,
+                "name": "ベルカプリ",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "エメラルスター",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "ピースマインド",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "エアシーラン",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "タイキオールブルー",
+                "score": 0
+            },
+            {
+                "number": 10,
+                "name": "ペスカネラ",
+                "score": 0
+            },
+            {
+                "number": 11,
+                "name": "サウンドキアラ",
+                "score": 0
+            },
+            {
+                "number": 12,
+                "name": "オーマイガイ",
+                "score": 0
+            },
+            {
+                "number": 13,
+                "name": "クリアザトラック",
+                "score": 0
+            },
+            {
+                "number": 14,
+                "name": "ナイトバナレット",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201807030411",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "サクセスエナジー",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "ドリームキラリ",
+                "score": 0
+            },
+            {
+                "number": 3,
+                "name": "ウインムート",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "ブライトライン",
+                "score": 0
+            },
+            {
+                "number": 5,
+                "name": "ルグランフリソン",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "インカンテーション",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "キングズガード",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "ドライヴナイト",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "エイシンヴァラー",
+                "score": 0
+            },
+            {
+                "number": 10,
+                "name": "ダノングッド",
+                "score": 0
+            },
+            {
+                "number": 11,
+                "name": "ナムラミラクル",
+                "score": 0
+            },
+            {
+                "number": 12,
+                "name": "ブラゾンドゥリス",
+                "score": 0
+            },
+            {
+                "number": 13,
+                "name": "マテラスカイ",
+                "score": 0
+            },
+            {
+                "number": 14,
+                "name": "サイタスリーレッド",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201807030412",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "マンナム",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "クリノフウジン",
+                "score": 0
+            },
+            {
+                "number": 3,
+                "name": "テイエムヨハネス",
+                "score": 1
+            },
+            {
+                "number": 4,
+                "name": "セヴィルロアー",
+                "score": 0
+            },
+            {
+                "number": 5,
+                "name": "ヨドノナイト",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "コンプリートベスト",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "グランセノーテ",
+                "score": 1
+            },
+            {
+                "number": 8,
+                "name": "メイショウハチク",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "ダンサクドゥーロ",
+                "score": 0
+            },
+            {
+                "number": 10,
+                "name": "シゲルマツタケ",
+                "score": 0
+            },
+            {
+                "number": 11,
+                "name": "サンティーニ",
+                "score": 0
+            },
+            {
+                "number": 12,
+                "name": "セイリスペクト",
+                "score": 0
+            },
+            {
+                "number": 13,
+                "name": "マリオ",
+                "score": 0
+            },
+            {
+                "number": 14,
+                "name": "リュクスポケット",
+                "score": 0
+            },
+            {
+                "number": 15,
+                "name": "マルヨシャバーリー",
+                "score": 0
+            },
+            {
+                "number": 16,
+                "name": "ヒルノケープタウン",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201802020201",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "プリマヴォルタ",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "フレンドリボン",
+                "score": 0
+            },
+            {
+                "number": 3,
+                "name": "キタイ",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "ニヴィアン",
+                "score": 0
+            },
+            {
+                "number": 5,
+                "name": "ヤマカツルビー",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "ステップシー",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "ローザノワール",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "エスワイロビン",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201802020203",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "ヴィーヴルサヴィ",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "トップギア",
+                "score": 0
+            },
+            {
+                "number": 3,
+                "name": "デンコウスティール",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "クオーレカルド",
+                "score": 0
+            },
+            {
+                "number": 5,
+                "name": "フリーダムソート",
+                "score": 1
+            },
+            {
+                "number": 6,
+                "name": "テイエムヘニーズ",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "レイドバック",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "サンシャイアン",
+                "score": 1
+            },
+            {
+                "number": 9,
+                "name": "ホリーセクション",
+                "score": 0
+            },
+            {
+                "number": 10,
+                "name": "クールリフレイン",
+                "score": 1
+            },
+            {
+                "number": 11,
+                "name": "オーサムミッション",
+                "score": 0
+            },
+            {
+                "number": 12,
+                "name": "スズノアリュール",
+                "score": 0
+            },
+            {
+                "number": 13,
+                "name": "エンドウォーニング",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201802020202",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "レヴェナント",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "シップフォクイーン",
+                "score": 0
+            },
+            {
+                "number": 3,
+                "name": "ブチャコ",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "ハナオウギ",
+                "score": 0
+            },
+            {
+                "number": 5,
+                "name": "ミキノトムトム",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "サトノブレイズ",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "トーホウキャサリン",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "ノヴァ",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "コパノマーボー",
+                "score": 0
+            },
+            {
+                "number": 10,
+                "name": "ランプフィーバー",
+                "score": 0
+            },
+            {
+                "number": 11,
+                "name": "テイエムブルグッコ",
+                "score": 0
+            },
+            {
+                "number": 12,
+                "name": "パンテラ",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201802020204",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "スナップドラゴン",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "ペイシャゲイン",
+                "score": 0
+            },
+            {
+                "number": 3,
+                "name": "ウインプライマリー",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "ノーブルステップ",
+                "score": 0
+            },
+            {
+                "number": 5,
+                "name": "オテンバキッズ",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "パシュパティナート",
+                "score": 1
+            },
+            {
+                "number": 7,
+                "name": "カシノデジール",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "ハコダテダリア",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "インペリオーソ",
+                "score": 0
+            },
+            {
+                "number": 10,
+                "name": "サクラユニヴァース",
+                "score": 0
+            },
+            {
+                "number": 11,
+                "name": "ブライティアサンバ",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201802020205",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "コントラチェック",
+                "score": 1
+            },
+            {
+                "number": 2,
+                "name": "ラブミーファイン",
+                "score": 0
+            },
+            {
+                "number": 3,
+                "name": "トゥアレグ",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "ニシノデイジー",
+                "score": 1
+            },
+            {
+                "number": 5,
+                "name": "ヒルド",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "ブラックウォーリア",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "メイショウトーチ",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201802020207",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "アメイズミー",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "サルタート",
+                "score": 0
+            },
+            {
+                "number": 3,
+                "name": "ウイナーズロード",
+                "score": 1
+            },
+            {
+                "number": 4,
+                "name": "タイキラメール",
+                "score": 1
+            },
+            {
+                "number": 5,
+                "name": "サノラブ",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "ラファーガ",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "セグレートシチー",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "ブランオラージュ",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "ヴォルタ",
+                "score": 0
+            },
+            {
+                "number": 10,
+                "name": "アプローズ",
+                "score": 0
+            },
+            {
+                "number": 11,
+                "name": "チェリースプリング",
+                "score": 0
+            },
+            {
+                "number": 12,
+                "name": "ソロダンサー",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201802020206",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "クリノルーベンス",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "アーリーバード",
+                "score": 0
+            },
+            {
+                "number": 3,
+                "name": "チムニースイーパー",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "ノーモアサイレンス",
+                "score": 0
+            },
+            {
+                "number": 5,
+                "name": "シトワイアン",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "ミヤビチーター",
+                "score": 2
+            },
+            {
+                "number": 7,
+                "name": "ホーカスポーカス",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "リーディングエッジ",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "メイショウリボベジ",
+                "score": 0
+            },
+            {
+                "number": 10,
+                "name": "ベラソヴラーノ",
+                "score": 0
+            },
+            {
+                "number": 11,
+                "name": "ナンヨーイヴェール",
+                "score": 1
+            },
+            {
+                "number": 12,
+                "name": "メイショウサンアイ",
+                "score": 0
+            },
+            {
+                "number": 13,
+                "name": "デルマブランデー",
+                "score": 0
+            },
+            {
+                "number": 14,
+                "name": "オテンバランナー",
+                "score": 0
+            },
+            {
+                "number": 15,
+                "name": "ファルコンレイナ",
+                "score": 0
+            },
+            {
+                "number": 16,
+                "name": "イデアドーター",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201802020208",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "ダノンロッソ",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "タピゾー",
+                "score": 0
+            },
+            {
+                "number": 3,
+                "name": "サンマルアリュール",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "ジュブリーユ",
+                "score": 0
+            },
+            {
+                "number": 5,
+                "name": "ヌンジュリエット",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "メイショウアケボノ",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "クリノキング",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "アメノムラクモ",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "グッドワード",
+                "score": 0
+            },
+            {
+                "number": 10,
+                "name": "フォルツァエフ",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201802020209",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "メガフレア",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "コスモレリア",
+                "score": 1
+            },
+            {
+                "number": 3,
+                "name": "ビレッジソング",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "ハウエバー",
+                "score": 0
+            },
+            {
+                "number": 5,
+                "name": "ファントムグレイ",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "ゴールドフラッグ",
+                "score": 1
+            },
+            {
+                "number": 7,
+                "name": "ラレゾン",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "ミレフォリウム",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "ミヤビエメライン",
+                "score": 2
+            },
+            {
+                "number": 10,
+                "name": "コウセイマユヒメ",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201802020210",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "ワイナルダム",
+                "score": 1
+            },
+            {
+                "number": 2,
+                "name": "ウインペイザージュ",
+                "score": 0
+            },
+            {
+                "number": 3,
+                "name": "ブラウンローズ",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "イネディット",
+                "score": 0
+            },
+            {
+                "number": 5,
+                "name": "ポップシンガー",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "タイキラトナンジュ",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "ズアー",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "プレトリア",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "リルティングインク",
+                "score": 0
+            },
+            {
+                "number": 10,
+                "name": "デルマキセキ",
+                "score": 0
+            },
+            {
+                "number": 11,
+                "name": "リンシャンカイホウ",
+                "score": 0
+            },
+            {
+                "number": 12,
+                "name": "ユトリチャン",
+                "score": 0
+            },
+            {
+                "number": 13,
+                "name": "メイショウハバネラ",
+                "score": 0
+            },
+            {
+                "number": 14,
+                "name": "プレシャスロード",
+                "score": 0
+            },
+            {
+                "number": 15,
+                "name": "マイネルアムニス",
+                "score": 1
+            },
+            {
+                "number": 16,
+                "name": "コスモプラシデス",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201802020211",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "メイショウスミトモ",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "リーゼントロック",
+                "score": 1
+            },
+            {
+                "number": 3,
+                "name": "サンマルデューク",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "ディアデルレイ",
+                "score": 0
+            },
+            {
+                "number": 5,
+                "name": "タムロミラクル",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "ヨシオ",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "ヒデノインペリアル",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "ラストダンサー",
+                "score": 0
+            },
+            {
+                "number": 9,
+                "name": "ストロングバローズ",
+                "score": 0
+            },
+            {
+                "number": 10,
+                "name": "ユラノト",
+                "score": 0
+            },
+            {
+                "number": 11,
+                "name": "ブレスアロット",
+                "score": 0
+            },
+            {
+                "number": 12,
+                "name": "ハイランドピーク",
+                "score": 0
+            },
+            {
+                "number": 13,
+                "name": "サンライズメジャー",
+                "score": 1
+            },
+            {
+                "number": 14,
+                "name": "タガノエスプレッソ",
+                "score": 0
+            }
+        ]
+    },
+    {
+        "race_id": "201802020212",
+        "race_data": [
+            {
+                "number": 1,
+                "name": "ティーエスクライ",
+                "score": 0
+            },
+            {
+                "number": 2,
+                "name": "イストワールファム",
+                "score": 0
+            },
+            {
+                "number": 3,
+                "name": "デュッセルドルフ",
+                "score": 0
+            },
+            {
+                "number": 4,
+                "name": "ブレイクマイハート",
+                "score": 0
+            },
+            {
+                "number": 5,
+                "name": "メイショウナゴミ",
+                "score": 0
+            },
+            {
+                "number": 6,
+                "name": "ブリガアルタ",
+                "score": 0
+            },
+            {
+                "number": 7,
+                "name": "レッドレグナント",
+                "score": 0
+            },
+            {
+                "number": 8,
+                "name": "アグレアーブル",
+                "score": 0
+            }
+        ]
+    }
+]

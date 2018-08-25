@@ -1,0 +1,21 @@
+{
+  "name": "netkeiba_scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yuuta040208@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.3.0",
+    "date-util": "^1.2.1",
+    "date-utils": "^1.2.21",
+    "fs": "0.0.1-security",
+    "mysql": "^2.15.0",
+    "puppeteer": "^1.4.0",
+    "strtotime": "^1.0.0",
+    "twitter": "^1.7.1"
+  }
+}
