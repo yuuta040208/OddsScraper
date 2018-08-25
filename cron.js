@@ -90,4 +90,4 @@ const cronWeekend = new cronJob({
 //ジョブ開始
 cronSaturday.start();
 cronSunday.start();
-cronEveryday.start();
+cronWeekend.start();
