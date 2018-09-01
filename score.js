@@ -21,6 +21,9 @@ const loadScoreInfo = function () {
         if(fileList.indexOf(fileName) !== -1) {
             scoreList = fs.readFileSync(__dirname + '/' + fileName, 'utf-8');
             scoreList = JSON.parse(scoreList);
+        } else {
+            // ファイル保存
+            fs.writeFileSync(__dirname + '/' + fileName + '.json', '');
         }
 
         resolve(scoreList);
