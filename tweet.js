@@ -169,6 +169,7 @@ const loadScoreInfo = function () {
             } 
 
         }
+        console.log(tweetList);
 
         resolve(tweetList);
     });
@@ -255,6 +256,8 @@ const main = function () {
             return execTweet(results);
         })
         .then(function (results) {
+            // ファイル保存
+            fs.writeFileSync(__dirname + '/tweet.json', JSON.stringify(results, null, '    '));
             // 完了
             resolve();
         })
