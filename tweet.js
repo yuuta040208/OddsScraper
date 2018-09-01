@@ -130,6 +130,8 @@ const loadScoreInfo = function () {
             
             switch(place) {
                 case 1:
+                    placeStr = '札幌';
+                    break;
                 case 2:
                     placeStr = '函館';
                     break;
@@ -137,20 +139,26 @@ const loadScoreInfo = function () {
                     placeStr = '福島';
                     break;
                 case 4:
+                    placeStr = "新潟";
                     break;
-
                 case 5:
                     placeStr = '東京';
                     break;
                 case 6:
+                    placeStr = '中山';
+                    break;
                 case 7:
                     placeStr = '中京';
                     break;
                 case 8:
+                    placeStr = '京都';
                     break;
-
                 case 9:
                     placeStr = "阪神";
+                    break;
+                case 10:
+                    placeStr = "小倉";
+                    break;
             }
 
             return {
