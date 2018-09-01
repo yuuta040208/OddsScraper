@@ -69,7 +69,10 @@ const cronWeekend = new cronJob({
 
     //指定時に実行したい関数
     , onTick: function() {
-        childProcess.execSync('node scrape_raceinfo.js 0');
+        childProcess.execSync('node scrape_odds.js');
+        childProcess.execSync('node select.js');
+        childProcess.execSync('node insert.js');
+        childProcess.execSync('node tweet.js');
 
         console.log(moment().format('YYYY/MM/DD HH:mm:ss'));
     }

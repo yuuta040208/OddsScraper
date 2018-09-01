@@ -152,7 +152,7 @@ const scrapeOddsInfo = function (data) {
                         'race_data': raceData
                     });
 
-                    console.log(oddsInfo[index]);
+                    console.log(oddsInfo[oddsInfo.length - 1]);
                 }
 
                 // ヘッドレスブラウザの停止

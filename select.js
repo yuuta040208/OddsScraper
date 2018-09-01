@@ -48,6 +48,7 @@ const selectDb = function (data) {
                 });
             } else {
                 console.log('No data.');
+                process.exit(0);
             }
 
             if(index == data.length - 1) {
