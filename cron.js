@@ -72,6 +72,7 @@ const cronWeekend = new cronJob({
         childProcess.execSync('node scrape_odds.js');
         childProcess.execSync('node select.js');
         childProcess.execSync('node insert.js');
+        childProcess.execSync('node score.js');
         childProcess.execSync('node tweet.js');
 
         console.log(moment().format('YYYY/MM/DD HH:mm:ss'));
