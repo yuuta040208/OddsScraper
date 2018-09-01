@@ -23,7 +23,7 @@ const loadScoreInfo = function () {
             scoreList = JSON.parse(scoreList);
         } else {
             // ファイル保存
-            fs.writeFileSync(__dirname + '/' + fileName + '.json', '');
+            fs.writeFileSync(__dirname + '/' + fileName, '');
         }
 
         resolve(scoreList);
@@ -36,7 +36,7 @@ const loadScoreInfo = function () {
  */ 
 const loadOddsInfo = function (scoreList) {
     return new Promise(function (resolve, reject) {
-        let oddsList = fs.readFileSync(__dirname + '/oddsInfo.json', 'utf-8');
+        let oddsList = fs.readFileSync(__dirname + '/oddsinfo.json', 'utf-8');
         oddsList = JSON.parse(oddsList);
 
         if(scoreList.length === 0) {
