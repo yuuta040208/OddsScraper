@@ -39,7 +39,7 @@ const cronSaturday = new cronJob({
 const timeSunday = '0 0 23 * * 6';
 const cronSunday = new cronJob({
     //実行したい日時 or crontab書式
-    cronTime: timeSaturday
+    cronTime: timeSunday
 
     //指定時に実行したい関数
     , onTick: function() {
@@ -65,7 +65,7 @@ const cronSunday = new cronJob({
 const timeWeekend = '0 */30 * * * *';
 const cronWeekend = new cronJob({
     //実行したい日時 or crontab書式
-    cronTime: timeSaturday
+    cronTime: timeWeekend
 
     //指定時に実行したい関数
     , onTick: function() {
