@@ -43,7 +43,7 @@ const cronSunday = new cronJob({
 
     //指定時に実行したい関数
     , onTick: function() {
-        childProcess.execSync('node scrape_raceinfo.js 0');
+        childProcess.execSync('node scrape_raceinfo.js 1');
 
         console.log(moment().format('YYYY/MM/DD HH:mm:ss'));
     }
